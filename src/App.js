@@ -18,7 +18,7 @@ class App extends Component {
         <img
           alt='fingaz'
           className="img"
-          src="https://i.imgur.com/TJisDte.png"
+          src="https://i.imgur.com/tJImsbl.png"
           style={{
             filter: `hue-rotate(${this.state.hueDegrees}deg)`,
             paddingTop: (isMobile ? '25%' : 0)
